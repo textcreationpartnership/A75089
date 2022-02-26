@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account how the Earl of Essex killed himself in the Tower of London, the 13th. of July 1683 As it appears by the coroners inquest, and the several informations following.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75089</idno>
+            <idno type="STC">Wing A176</idno>
+            <idno type="STC">ESTC R229465</idno>
+            <idno type="EEBO-CITATION">99895438</idno>
+            <idno type="PROQUEST">99895438</idno>
+            <idno type="VID">152788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2321:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account how the Earl of Essex killed himself in the Tower of London, the 13th. of July 1683 As it appears by the coroners inquest, and the several informations following.</title>
+                  <author>Farnham, E. aut</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by the heir of Andrew Anderson, printer to His most Sacred Majesty,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 4 by the coroner, E. Farnham.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Arthur Capel, --  Earl of, 1631-1683 --  Early works to 1800.</term>
+               <term>Tower of London --  Early works to 1800.</term>
+               <term>Suicide --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152788:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT How the Earl of Eſſex Killed Himſelf in the Tower of London, The 13th. of <hi>July</hi> 1683. As it appears by the Coroners Inqueſt, and the ſeveral Informations following.</head>
+            <div type="witness_account">
+               <p>THe Information of <hi>Paul Bomeny,</hi> Servant to the Earl of <hi>Eſſex,</hi> for about three or four years now laſt paſt; taken upon Oath the fourteenth Day of <hi>July, Anno Regni Caroli Secundi Dei Gratia, Angliae, Scotiae, Franciae &amp; Hiberniae Regis, Fidei Defenſoris,</hi> &amp;c. <hi>Triceſimo Quinto, Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Domini</hi> 1683.</p>
+               <p>
+                  <hi>SAith, That when my Lord came to Captain</hi> Hawley, <hi>which was the</hi> 11. <hi>Instant, my Lord of</hi> Eſſex <hi>asked him for a Pen-Knife to Pare his Nails, as he was wont to do; to which this Informant anſwered, Being come in haſte, he had not brought it, but he would ſend for one, and according<g ref="char:EOLhyphen"/>ly ſent the Footman with a Note for ſeveral things for my Lord, amongſt which the Pen-Knife was inſerted; and the Footman went, and gave the Bill to my Lords Steward, who ſent the Proviſions, but not the Pen-Knife, and he told the Footman, he would get one the next day. When the Footman was come, my Lord asked, if the Pen-Knife was come? This Informant anſwered, No, but he ſhould have it the next day, and accordingly, he on the twelfth Instant in the morning, before my Lord of</hi> Eſſex <hi>was up, this Informant ſent the Footman home with a Note to the Steward, in which, amongſt other things, he asked for a Pen-Knife for my Lord; and when the Footman was gone, about, or a little after eight of the Clock, My Lord ſent one Mr.</hi> Ruſſel, <hi>his Warder, to this Informant, who came, and then he asked him, if the Pen-Knife was come? This Informant ſaid, No, my Lord, but I ſhall have it by and by; to which my Lord ſaid, That he ſhould bring him one of his Raſours, it would do as well; And then this Informant went and fetched one, and gave it to my Lord; Who then went to Pare his Nails, and then this Informant went out of the Room into the Paſſage by the Door, on</hi> Friday <hi>the thirteenth Inſtant, and begun to talk with
+<pb n="2" facs="tcp:152788:2"/>the Warder, and a little while after he went down Stairs; and ſoon after came the Footman with the Proviſions, and brought alſo a Pen-Knife, which this Informant put upon his Bed, and thought my Lord had no more need of it, be<g ref="char:EOLhyphen"/>cauſe he thought he had Pared his Nails; and then this Informant came up to my Lords Chamber, about eight or nine in the Forenoon, on</hi> Friday <hi>the thirteenth Inſtant, with a little Note from the Steward; but not finding his Lord in the Chamber, went to the Cloſe-ſtool Cloſet-Door, and found it ſhut; And he think<g ref="char:EOLhyphen"/>ing his Lord was buſie there, went down, and ſtaid a little, and came up again, thinking his Lord had been come out of the Cloſet; And finding him not in the Chamber, he knocked at the Door with his Finger, thrice, and ſaid, my Lord? But no body anſwering, he took up the Hanging, and looking through the Chink, he ſaw Blood, and a part of the Raſour; Whereupon he called the War<g ref="char:EOLhyphen"/>der,</hi> Ruſſel, <hi>and went down to call for help; and the ſaid</hi> Ruſſel <hi>puſhed the Door open, and there they ſaw my Lord of</hi> Eſſex <hi>all along the Floor, without a Periwig, and all full of Blood, and the Raſour by him. And this Depo<g ref="char:EOLhyphen"/>nent further Depoſeth, That the Raſour now ſhewed to him, at the time of his Examination, is the ſame Raſour which he did bring to my Lord, and which did lie on the Ground in the Cloſet, by my Lord.</hi>
+               </p>
+               <closer>
+                  <signed>BOMENY.</signed>
+               </closer>
+            </div>
+            <div type="witness_account">
+               <pb n="3" facs="tcp:152788:2"/>
+               <p>THe Information of <hi>Thomas Ruſſel</hi> one of the Warders of the <hi>Tower,</hi> who had the Cuſtody of the Earl of <hi>Eſſex,</hi> taken the Fourteenth day of <hi>July, Anno Regni Caroli Secundi, Dei Gratia Angliae, Scotiae, Franciae, &amp; Hiberniae Regis, Fidei Defenſor',</hi> &amp;c. <hi>Triceſimo Quinto, Annoque Dom.</hi> 1683.</p>
+               <p>SAith, That on <hi>Friday</hi> the Thirteenth Inſtant, about Eight or Nine of the Clock in the Forenoon, he was preſent when he did hear the Lord of <hi>Eſſex</hi> call to his Man Mr. <hi>Bomeny</hi> for a Pen-knife to pare his nails, and then for a Raſour, which Mr. <hi>Bomeny</hi> brought him, and then my Lord walked up and down the Room ſcraping his nails with the Raſour, and ſhut the outward door; Mr. <hi>Bomeny,</hi> half a quarter of an hour after<g ref="char:EOLhyphen"/>wards, not finding my Lord in his Bed-Chamber, went down ſtairs again, believing that my Lord was then private in his Cloſet. <hi>Bomeny</hi> came up about a quarter of an hour afterwards, and knocked at the door, then called, My Lord, My Lord, My Lord; but he not anſwering, peeped through a Chink of the door, and did ſee the Earl of <hi>Eſſex</hi> lying on the ground in the Cloſet, whereupon he did cry out, That My Lord was faln down ſick; and then this Informant went to the Cloſet-door, and opened it, the Key being on the outſide, and then did ſee my Lord lye on the ground in his bloud, his Throat being cut.</p>
+               <closer>
+                  <signed>Thomas Ruſſel.</signed>
+               </closer>
+            </div>
+            <div type="witness_account">
+               <p>THe Information of <hi>Robert Sherwood</hi> of <hi>Fanchurch Street,</hi> Chyrur<g ref="char:EOLhyphen"/>gion, taken the Fourteenth day of <hi>July, Anno Regni Caroli Secundi, Dei Gratia, Angliae, Scotiae, Franciae, &amp; Hiberniae Regis, Fidei Defenſor',</hi> &amp;c. <hi>Tri<g ref="char:EOLhyphen"/>ceſimo Quinto, Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Dom.</hi> 1683.</p>
+               <p>SAith, That he hath viewed the Throat of the Earl of <hi>Eſſex,</hi> and does find that there is a large Wound, and that the <hi>Aſpera Ar<g ref="char:EOLhyphen"/>teria,</hi> or Wind-pipe, and the Gullet, with the <hi>Jugular Arteries;</hi> are all divided: Of which Wound he certainly died.</p>
+               <closer>
+                  <signed>Robert Sherwood.</signed>
+               </closer>
+            </div>
+            <div type="witness_account">
+               <p>THe Information of <hi>Robert Andrews</hi> of <hi>Crutchet Friers</hi> Chyrurgion taken upon Oath the Fourteenth day of <hi>July, Anno Regni Caroli Secundi nunc Regis Anglia,</hi> &amp;c. <hi>Triceſimo Quinto, Annoque Dom.</hi> 1683.</p>
+               <p>SAith, That he hath viewed the Throat of the Lord of <hi>Eſſex,</hi> and does find, That it was cut from the one <hi>Jugular</hi> to the other, and through the Wind-pipe and Gullet, unto the <hi>Vertebres</hi> of the Neck, both <hi>Jugular</hi> Veins being alſo quite divided.</p>
+               <closer>
+                  <signed>Robert Andrews.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="4" facs="tcp:152788:3"/>
+               <p>
+                  <note place="margin">Tu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> London ſs.</note>AN Inquiſition Indented, Taken at the <hi>Tower</hi> of <hi>London,</hi> in the County of <hi>Middleſex,</hi> the Fourteenth day of <hi>July,</hi> in the Five and Thirtieth Year of the Reign of Our Soveraign Lord <hi>Charles</hi> the Second, by the Grace of God, of <hi>England, Scotland, France</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> King, Defender of the Faith, <hi>&amp;c. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Dom.</hi> 1683. before <hi>Edward Farnham</hi> 
+                  <abbr>Eſq</abbr> Coroner of the ſaid Lord the King, of the Liberty of the <hi>Tower</hi> of <hi>London,</hi> upon view of the Body of <hi>Arthur</hi> Earl of <hi>Eſſex</hi> then and there lying Dead, by the Oaths of <hi>Daniel Colwell</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>William Fiſher, Thomas Godfel</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Thomas Hunt, Nathaniel Mountney</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Thomas Pot<g ref="char:EOLhyphen"/>ter, William How, Robert Burgoine, Eleazar Wiggins, Thomas Hoggsfleſh, Henry Crips, Richard Rudder, William Knips, John Hudſon, John Kittle<g ref="char:EOLhyphen"/>beater, Lancolet Colſon, Morgan Cowarn, Thomas Bryan, William Thaxton, Richard Cliffe, Zebadia Richard, William Bayford,</hi> and <hi>Theophilus Charter,</hi> good and lawful men of the Liberty of the <hi>Tower</hi> of <hi>London</hi> afore<g ref="char:EOLhyphen"/>ſaid, who being Charged and Sworn to enquire how and in what manner the ſaid <hi>Arthur</hi> Earl of <hi>Eſſex</hi> came to his Death, upon their Oaths ſay, that the aforeſaid <hi>Arthur</hi> Earl of <hi>Eſſex</hi> the thirteenth day of <hi>July,</hi> in the ſaid five and thirtieth year of His now Majeſties Reign, at the ſaid <hi>Tower</hi> of <hi>London,</hi> in the ſaid County of <hi>Middleſex,</hi> about the ninth hour of the ſame day in the Forenoon, not having God before his Eyes, but being moved and ſeduced by the Inſtigation of the Devil, of his Malice fore<g ref="char:EOLhyphen"/>thought at the <hi>Tower</hi> of <hi>London</hi> aforeſaid, in the ſaid County of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> then and there being alone in a Cloſet, with one Raſour of the value of one ſhilling, Voluntarily and Feloniouſly Cut his Throat, and did thereby give himſelf one Mortal Wound, it being cut from the one <hi>Jugular</hi> to the other, and through the Wind-pipe and Gullet unto the <hi>Vertebres</hi> of the Neck, both <hi>Jugular</hi> Veins being alſo quite Divided; of which ſaid Mor<g ref="char:EOLhyphen"/>tal Wound the ſaid <hi>Arthur</hi> Earl of <hi>Eſſex</hi> inſtantly Died; and thus the aforeſaid Jurors, upon their Oaths ſay, That the aforſaid <hi>Arthur</hi> Earl of <hi>Eſſex,</hi> in Manner and Form aforeſaid, did Voluntarily and Feloniouſly, as <hi>Felo de ſe,</hi> Kill and Murther himſelf, againſt the Peace of our Lord the King, His Crown and Dignity. In Witneſs whereof, as well I the ſaid Coroner, as the Jurors aforeſaid, to this Inquiſition have put our Hands and Seals, the Day and Year aboveſaid.</p>
+               <closer>
+                  <signed>
+                     <hi>Vera Copia Examin'cum Originali, Per</hi> E. FARNHAM.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
